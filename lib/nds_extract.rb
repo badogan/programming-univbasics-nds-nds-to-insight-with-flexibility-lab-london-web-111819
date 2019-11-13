@@ -108,4 +108,4 @@ def studios_totals(nds)
 end
 
 studios_totals(directors_database)
-#p vm
+p vm
